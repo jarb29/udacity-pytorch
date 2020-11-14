@@ -163,3 +163,9 @@ jupyter notebook
 ```
 
 To exit the environment when you have completed your work session, simply close the terminal window.
+
+
+##############################################################################
+							"Jose Modifications"
+##############################################################################
+### Fixing the endpoint configuration del Pytorch model in Sagemaker
